@@ -1,0 +1,47 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Lo estamos evitando      ",
+    "respuesta": "We're avoiding him     ",
+    "incorrecta1": " We avoid   him  ",
+    "incorrecta2": "We're avoid   him    ",
+    "incorrecta3": "We would avoid  v him  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/08/21/00/11/basketball-1608836_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "Hemos evitado hablar contigo   ",
+    "respuesta": "We have avoided talking to you   ",
+    "incorrecta1": " We avoided talking to you  ",
+    "incorrecta2": "We have avoid  talking to you   ",
+    "incorrecta3": "We had avoided talking to you        ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/09/29/11/36/listen-1702648_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Evitamos tener un accidente       ",
+    "respuesta": "We avoided having an accident   ",
+    "incorrecta1": "We have avoided an accident ",
+    "incorrecta2": "We had avoided an accident",
+    "incorrecta3": "We have avoid  an accident  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/28/19/53/car-1865856_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Evitaremos salir con David  ",
+    "respuesta": "We will avoid going out with David",
+    "incorrecta1": "We're going to avoid going out with David ",
+    "incorrecta2": "We would avoid going out with David ",
+    "incorrecta3": "We're going to avoided going out with David  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/01/19/15/07/cocktails-1149171_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Vamos a evitar la comida basura   ",
+    "respuesta": "We're going to avoid fast food   ",
+    "incorrecta1": "We will avoid  fast food ",
+    "incorrecta2": "We would avoid  fast food ",
+    "incorrecta3": "We're going to avoided  fast food",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/07/11/14/restaurant-2602736_960_720.jpg",
+    "objectFit": "contain"
+}]

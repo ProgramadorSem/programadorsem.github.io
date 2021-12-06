@@ -1,0 +1,47 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Te está viendo ahora mismo    ",
+    "respuesta": "He's seeing you right now    ",
+    "incorrecta1": "He sees   you right now  ",
+    "incorrecta2": "He's see  you right now    ",
+    "incorrecta3": "He seeing   you right now   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/09/09/17/girl-1245713_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "Ha visto el documental    ",
+    "respuesta": "He has seen the documentary  ",
+    "incorrecta1": "He has see the documentary",
+    "incorrecta2": "He have seen the documentary  ",
+    "incorrecta3": "He have see  the documentary     ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/01/20/14/08/shooting-75599_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": " Vio el bebé ayer     ",
+    "respuesta": "He saw the baby yesterday    ",
+    "incorrecta1": "He see   the baby yesterday",
+    "incorrecta2": "He seen  the baby yesterday",
+    "incorrecta3": "He has seen  the baby yesterday ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/02/21/19/10/mother-84628_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Te vera jugar   ",
+    "respuesta": "He will see you playing ",
+    "incorrecta1": "He would see you playing  ",
+    "incorrecta2": "He will seen you playing ",
+    "incorrecta3": "He's going to see you playing     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/05/22/01/38/hit-1407826_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Va a verlos mañana   ",
+    "respuesta": "He's going to see them tomorrow ",
+    "incorrecta1": " He will see  them tomorrow ",
+    "incorrecta2": "He would see  them tomorrow  ",
+    "incorrecta3": "He's going to seen  them tomorrow",
+    "imagen": "https://cdn.pixabay.com/photo/2016/02/18/22/18/picnic-1208229_960_720.jpg",
+    "objectFit": "contain"
+}]

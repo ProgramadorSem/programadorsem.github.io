@@ -1,0 +1,38 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Están llamando a su manager    ",
+    "respuesta": "They are calling their manager     ",
+    "incorrecta1": " They call   ",
+    "incorrecta2": "They calling       ",
+    "incorrecta3": "They would call  ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/08/08/12/03/business-170645_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Han llamado a la policía   ",
+    "respuesta": "You haven't help much today    ",
+    "incorrecta1": "You didn't help much today ",
+    "incorrecta2": "You haven't helped much today  ",
+    "incorrecta3": "You didn't helped  much today     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/02/19/11/26/squad-car-1209719_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Llamaron a tu hermana ayer    ",
+    "respuesta": "They called your sister yesterday     ",
+    "incorrecta1": "They have call    ",
+    "incorrecta2": "They haved call",
+    "incorrecta3": "They had called   ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/05/19/12/59/phone-5190643_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Te llamarán en unos minutos  ",
+    "respuesta": "They will call you in a few minutes",
+    "incorrecta1": "They are going to call you tomorrow    ",
+    "incorrecta2": "You aren't going to help ",
+    "incorrecta3": "You won't helped   ",
+    "imagen": "https://cdn.pixabay.com/photo/2021/02/03/00/10/receptionists-5975962_960_720.jpg",
+    "objectFit": "contain"
+}]

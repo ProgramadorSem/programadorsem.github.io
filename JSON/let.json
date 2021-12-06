@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Le estamos dejando hacer lo que quieras  ",
+    "respuesta": "We're letting him do whatever he wants   ",
+    "incorrecta1": " We letting  him do whatever he wants   ",
+    "incorrecta2": "We let  him do whatever he wants  ",
+    "incorrecta3": "We would let  him do whatever he wants ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/05/03/01/02/stage-336695_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Dejamos a Rose ir al concierto  ",
+    "respuesta": "We let Rose go to the concert ",
+    "incorrecta1": "We would let Rose go to the concert",
+    "incorrecta2": "We're going to let  Rose go to the concert ",
+    "incorrecta3": "We will let   Rose go to the concert     ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/05/15/14/50/concert-768722_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Hemos dejado a mi hijo ir a la fiesta de su escuela   ",
+    "respuesta": "We have let my son go to his school's party  ",
+    "incorrecta1": "We let  my son go to his school's party ",
+    "incorrecta2": "We will let  my son go to his school's party ",
+    "incorrecta3": "We would let   my son go to his school's party ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/02/13/09/confetti-2571539_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Le dejaremos ayudarnos   ",
+    "respuesta": "We will let him help us",
+    "incorrecta1": "We're going to let him help us",
+    "incorrecta2": "We would let him help us",
+    "incorrecta3": "We let him help us  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/18/15/21/help-1265227_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Vamos a dejarle jugar con nosotros     ",
+    "respuesta": "We're going to let him play with us   ",
+    "incorrecta1": "We will let him play with us ",
+    "incorrecta2": "We would let him play with us   ",
+    "incorrecta3": "We let him play with us ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/10/04/06/25/beach-4524911_960_720.jpg",
+    "objectFit": "contain"
+}]

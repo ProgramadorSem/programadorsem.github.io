@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estás sosteniendo un vaso de vino     ",
+    "respuesta": "You are holding a glass of wine     ",
+    "incorrecta1": " You would hold a glass of wine    ",
+    "incorrecta2": "You hold  a glass of wine      ",
+    "incorrecta3": "You are hold  a glass of wine   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/23/15/00/picnic-1853380_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Has sostenido el jersey marrón    ",
+    "respuesta": "You have held the brown sweater    ",
+    "incorrecta1": "You have holded   the brown sweater ",
+    "incorrecta2": "You held  the brown sweater   ",
+    "incorrecta3": "You holded   the brown sweater         ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/11/21/08/13/woman-4642003_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Sostuviste el trofeo        ",
+    "respuesta": "You held  the trophy    ",
+    "incorrecta1": "You have held    the trophy   ",
+    "incorrecta2": "You have hold  the trophy ",
+    "incorrecta3": "You holded   the trophy  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/10/27/12/29/trophy-1008963_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Sostendrás un cargo importante   ",
+    "respuesta": "You will hold an important charge",
+    "incorrecta1": "You would hold an important charge ",
+    "incorrecta2": "You're going to hold an important charge ",
+    "incorrecta3": "You will held an important charge    ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/08/08/12/03/business-170645_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Vas a sostenerla en tus manos   ",
+    "respuesta": "You are going to hold her in your hands    ",
+    "incorrecta1": "  You will hold  her in your hands ",
+    "incorrecta2": "You would hold   her in your hands  ",
+    "incorrecta3": "You're going to held her in your hands",
+    "imagen": "https://cdn.pixabay.com/photo/2012/03/01/01/42/baby-20339_960_720.jpge-4615557_960_720.jpg",
+    "objectFit": "contain"
+}]

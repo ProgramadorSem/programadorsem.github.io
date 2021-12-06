@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Esta dirigiendo la expedición     ",
+    "respuesta": "He's leading  the expedition     ",
+    "incorrecta1": "He leads the expedition   ",
+    "incorrecta2": "He would lead the expedition    ",
+    "incorrecta3": "He's going to lead the expedition  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/26/01/43/hiking-2540189_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Dirigirá la manifestación    ",
+    "respuesta": "He will lead the manifestation  ",
+    "incorrecta1": "He would lead the manifestation ",
+    "incorrecta2": "He's going to lead the manifestation   ",
+    "incorrecta3": "He will led the manifestation         ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/09/28/10/06/protest-464616_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Ha dirigido la discusión       ",
+    "respuesta": "He has led the discussion  ",
+    "incorrecta1": "He led the discussion  ",
+    "incorrecta2": "He has lead the discussion",
+    "incorrecta3": "He have lead the discussion  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/09/29/11/36/listen-1702648_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Dirigió la investigación  ",
+    "respuesta": "He led the inquiry",
+    "incorrecta1": "He lead   the inquiry",
+    "incorrecta2": "He leads  the inquiry ",
+    "incorrecta3": "He had lead  the inquiry   ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/03/09/11/57/engineer-4915427_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Va a dirigir el camino ",
+    "respuesta": "He is going to lead the way   ",
+    "incorrecta1": " He will lead  the way",
+    "incorrecta2": "He would lead the way ",
+    "incorrecta3": "He's going to led the way",
+    "imagen": "https://cdn.pixabay.com/photo/2014/09/21/17/56/mountaineering-455338_960_720.jpg",
+    "objectFit": "contain"
+}]

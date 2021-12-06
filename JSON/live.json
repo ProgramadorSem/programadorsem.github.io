@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Están viviendo en Alemania ahora    ",
+    "respuesta": "They are living in Germany now   ",
+    "incorrecta1": " They live in Germany now    ",
+    "incorrecta2": "They lived in Germany now    ",
+    "incorrecta3": "They would live in Germany now   ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/08/03/11/48/frankfurt-3581739_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Han vivido en América por 3 años  ",
+    "respuesta": "They have lived in America for 3 years    ",
+    "incorrecta1": "They had lived in America for 3 years",
+    "incorrecta2": "They have live in America for 3 years",
+    "incorrecta3": "They had live     in America for 3 years",
+    "imagen": "https://cdn.pixabay.com/photo/2016/10/16/13/06/new-york-1745089_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Vivieron en Sudáfrica hace 3 años  ",
+    "respuesta": "They lived in South Africa 3 years ago ",
+    "incorrecta1": "They had live in South Africa 3 years ago ",
+    "incorrecta2": "They have lived in South Africa 3 years ago ",
+    "incorrecta3": "They had lived  in South Africa 3 years ago ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/05/29/22/25/elephant-114543_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Vivirán en el campo  ",
+    "respuesta": "They will live in the countryside",
+    "incorrecta1": "They would live in the countryside",
+    "incorrecta2": "They are going to live in the countryside",
+    "incorrecta3": "They will lived in the countryside  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/04/09/09/56/avenue-2215317_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Van a vivir en España el año que viene    ",
+    "respuesta": "They are going to live in Spain next year     ",
+    "incorrecta1": "They will live  to live in Spain next year",
+    "incorrecta2": "They would live  to live in Spain next year ",
+    "incorrecta3": "They are going to live   to live in Spain next year    ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/06/29/15/25/spain-379535_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Te gusta el pescado con patatas?    ",
+    "respuesta": "Do you like fish and chips?   ",
+    "incorrecta1": " Did you like  fish and chips?  ",
+    "incorrecta2": "Are you like  fish and chips?   ",
+    "incorrecta3": "Do you liked ",
+    "imagen": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1625539365/photosp/33c62e91-234f-4268-ad72-5d834b370228/33c62e91-234f-4268-ad72-5d834b370228.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Te ha gustado la película?  ",
+    "respuesta": "Have you liked the film? ",
+    "incorrecta1": "Have you like  the film?",
+    "incorrecta2": "Did you like  the film?  ",
+    "incorrecta3": "Did you liked  the film?       ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/06/17/10/28/end-139848_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Te gustó la idea que tuve?    ",
+    "respuesta": "Did you like the idea I had? ",
+    "incorrecta1": "Have you liked the idea I had?? ",
+    "incorrecta2": "Have you like the idea I had??  ",
+    "incorrecta3": "Did you liked the idea I had?? ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/06/13/09/41/business-4271251_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Te gustará?   ",
+    "respuesta": "Will you like it?",
+    "incorrecta1": "Would you like it?",
+    "incorrecta2": "Will you liked it?",
+    "incorrecta3": "Are you going to like it?  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Te va a gustar el libro?     ",
+    "respuesta": "Are you going to like the book?    ",
+    "incorrecta1": "Will you like  the book? ",
+    "incorrecta2": "Would you like  the book?  ",
+    "incorrecta3": "WAre you going to like  the book?",
+    "imagen": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_960_720.jpg",
+    "objectFit": "contain"
+}]

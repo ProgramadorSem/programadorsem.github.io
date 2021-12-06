@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "¿Estás moviendo la mesa otra vez?  ",
+    "respuesta": "Are you moving the table again?    ",
+    "incorrecta1": " Do you move the table again?  ",
+    "incorrecta2": "Are you move the table again?    ",
+    "incorrecta3": "Did you move the table again?  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/12/08/00/26/desk-1081708_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "¿Has movido esa pieza?   ",
+    "respuesta": "Have you moved that piece?  ",
+    "incorrecta1": "Did you move that piece? ",
+    "incorrecta2": "Have you move that piece?  ",
+    "incorrecta3": "Had you moved that piece?      ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/01/27/03/46/chess-1163624_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "¿Moviste tu cabra hasta las montañas?  ",
+    "respuesta": "Did you move your sheep up into the hills?  ",
+    "incorrecta1": "Had you moved your sheep up into the hills?  ",
+    "incorrecta2": "Have you move your sheep up into the hills?  ",
+    "incorrecta3": "Did you moved your sheep up into the hills?",
+    "imagen": "https://cdn.pixabay.com/photo/2020/01/17/19/39/landscape-4773879_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "¿Te mudarás a su casa?    ",
+    "respuesta": "Will you move into his house? ",
+    "incorrecta1": "Would you move into his house? ",
+    "incorrecta2": "Are you going to move into his house? ",
+    "incorrecta3": "Will you moved into his house?   ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/02/24/12/19/apartment-2094666_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "¿Vas a mover la silla?     ",
+    "respuesta": "Are you going to move the chair?   ",
+    "incorrecta1": "Would you move the chair?  ",
+    "incorrecta2": "Will you move the chair?  ",
+    "incorrecta3": "Are you going to moved the chair? ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/01/26/08/15/dining-room-3108037_960_720.jpg",
+    "objectFit": "contain"
+}]

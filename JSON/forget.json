@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Me estoy olvidando de todas las respuestas del examen     ",
+    "respuesta": "I'm forgetting all the exam's answers     ",
+    "incorrecta1": " I forget all the exam's answers ",
+    "incorrecta2": "I'm forgotten all the exam's answers      ",
+    "incorrecta3": "I forgot all the exam's answers ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/07/20/03/53/homework-2521144_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Me he olvidado de comprar leche    ",
+    "respuesta": "I have forgotten to buy milk     ",
+    "incorrecta1": "I forgot to buy milk ",
+    "incorrecta2": "I have forget to buy milk  ",
+    "incorrecta3": "I forgotten to buy milk    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/12/06/18/27/cereal-1887237_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Me olvidé de tu nombre     ",
+    "respuesta": "I forgot your name  ",
+    "incorrecta1": "I'm forgetting your name ",
+    "incorrecta2": "I forget your name",
+    "incorrecta3": "I forgotten your name",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/31/21/22/deep-thought-1296377_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Me olvidaré si no lo escribo  ",
+    "respuesta": "I will forget it if I don't write it ",
+    "incorrecta1": "I would forget  it if I don't write it ",
+    "incorrecta2": "I will forgot it if I don't write it",
+    "incorrecta3": "I would forgot it if I don't write it  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/01/08/18/26/man-593333_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Me voy a olvidar de conducir   ",
+    "respuesta": "I'm going to forget how to drive  ",
+    "incorrecta1": "  I will forget  how to drive ",
+    "incorrecta2": "I would forget  how to drive ",
+    "incorrecta3": "I'm going to forgot  how to drive",
+    "imagen": "https://cdn.pixabay.com/photo/2016/01/19/17/57/car-1149997_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,47 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Estáis jugando muy bien este partido    ",
+    "respuesta": "You're playing very well this match   ",
+    "incorrecta1": "You're play   very well this match  ",
+    "incorrecta2": "You play  very well this match    ",
+    "incorrecta3": "You would play    very well this match  ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/03/21/15/52/basketball-95607_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "Habéis jugado demasiadas horas  ",
+    "respuesta": "You have played too many hours  ",
+    "incorrecta1": "You played too many hours",
+    "incorrecta2": "You had played too many hours ",
+    "incorrecta3": "You have play too many hours  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Jugabais con los niños de enfrente     ",
+    "respuesta": "  You played with kids next door     ",
+    "incorrecta1": "You have played with kids next door",
+    "incorrecta2": "You had played with kids next door",
+    "incorrecta3": "You have play with kids next door ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/05/22/03/40/beach-778246_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Jugareis con vuestra prima mañana ",
+    "respuesta": "You will play with your cousin tomorrow",
+    "incorrecta1": "You would play  with your cousin tomorrow",
+    "incorrecta2": "You're going to play  with your cousin tomorrow",
+    "incorrecta3": "You will played  with your cousin tomorrow   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/12/03/14/20/children-1879907_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Vais a jugar al tenis con Chris en la cancha  ",
+    "respuesta": "You're going to play tennis with Chris in the court ",
+    "incorrecta1": " You would play  tennis with Chris in the court ",
+    "incorrecta2": "You will play  tennis with Chris in the court   ",
+    "incorrecta3": "You're going to played  tennis with Chris in the court ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/11/27/18/59/tennis-5782695_960_720.jpg",
+    "objectFit": "contain"
+}]

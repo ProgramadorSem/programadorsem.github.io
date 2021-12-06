@@ -1,0 +1,47 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Esta pagando el vestido    ",
+    "respuesta": "She is paying the dress  ",
+    "incorrecta1": "She pays  the dress  ",
+    "incorrecta2": "She pay  the dress    ",
+    "incorrecta3": "She would pay  the dress ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/11/18/42/business-1817472_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "Ha pagado una profesora privada   ",
+    "respuesta": "She has paid a private teacher  ",
+    "incorrecta1": "Se had pay a private teacher",
+    "incorrecta2": "She has pay a private teacher ",
+    "incorrecta3": "She have paid   a private teacher",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/26/17/45/teacher-1280966_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Pagó sus tasas     ",
+    "respuesta": "She paid her taxes    ",
+    "incorrecta1": "She pay  her taxes",
+    "incorrecta2": "She had paid  her taxes",
+    "incorrecta3": "She have paid  her taxes ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/09/16/09/21/money-1673582_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Pagará 50 dólares por una chaqueta",
+    "respuesta": "She will pay 50 dollars for a jacket",
+    "incorrecta1": "She would pay 50 dollars for a jacket",
+    "incorrecta2": "She is going to pay 50 dollars for a jacket",
+    "incorrecta3": "She will paid 50 dollars for a jacket  ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/22/19/08/hangers-1850082_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Mañana le va a pagar al dueño ",
+    "respuesta": "She is going to pay tomorrow to the owner ",
+    "incorrecta1": " She will pay  tomorrow to the owner ",
+    "incorrecta2": "She would pay  tomorrow to the owner ",
+    "incorrecta3": "She's going to paid  tomorrow to the owner",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/19/13/08/business-1839191_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,46 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Le estás permitiendo todo     ",
+    "respuesta": "You are allowing her everything    ",
+    "incorrecta1": "You allow her everything   ",
+    "incorrecta2": "You allowing    her everything ",
+    "incorrecta3": "You allowed     her everything ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/22/06/32/girl-1848478_960_720.jpg.",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": " ¿Le has dejado ir a esa fiesta?  ",
+    "respuesta": "Have you allowed him to go to that party?    ",
+    "incorrecta1": "Did you allowed  him to go to that party?",
+    "incorrecta2": "Did you allow him to go to that party?",
+    "imagen": "https://cdn.pixabay.com/photo/2017/12/08/11/53/event-party-3005668_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": " ¿Le dejaste fumar en su casa?       ",
+    "respuesta": "Did you allow him to smoke in the house? ",
+    "incorrecta1": " Have you allowed him to smoke in the house??  ",
+    "incorrecta2": "Did you allowed  him to smoke in the house??",
+    "incorrecta3": "Had you allowed  him to smoke in the house??  ",
+    "imagen": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1521838795/photosp/65baaed0-5214-48ce-9ef3-d642153a0d4f/65baaed0-5214-48ce-9ef3-d642153a0d4f.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "¿Les dejarás ir al concierto de Kathy?  ",
+    "respuesta": "Will you allow them to go to Kathy's concert?",
+    "incorrecta1": "Are you going to allow them to go to Kathy's concert?? ",
+    "incorrecta2": "Would you allow them to go to Kathy's concert??",
+    "incorrecta3": "Will you allowed them to go to Kathy's concert??",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/23/15/48/audience-1853662_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "No vas a dejar que hablen en el examen ",
+    "respuesta": "You aren't going to allow them to talk in the exam ",
+    "incorrecta1": "  You wouldn't allow them to talk in the exam ",
+    "incorrecta2": "You won't allow them to talk in the exam  ",
+    "incorrecta3": "You aren't allowing them to talk in the exam  ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/01/22/09/40/teacher-4784917_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,46 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Esta solicitando a las autoridades locales    ",
+    "respuesta": "He's applying to the local authorities    ",
+    "incorrecta1": "He applies to the local authorities     ",
+    "incorrecta2": "He apply to the local authorities     ",
+    "incorrecta3": "He's apply to the local authorities    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/02/19/11/26/squad-car-1209719_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": " Ha solicitado un nuevo trabajo   ",
+    "respuesta": "He has applied for a new job   ",
+    "incorrecta1": "He applied   for a new job  ",
+    "incorrecta2": "He have applied  for a new job  ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/09/17/01/47/job-interview-5577755_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": " Solicitó a una organización caritativa        ",
+    "respuesta": "He applied to a charitable organization ",
+    "incorrecta1": " He apply  to a charitable organization  ",
+    "incorrecta2": "He has apply  to a charitable organization",
+    "incorrecta3": "He had applied   to a charitable organization  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/02/27/16/55/volunteer-652383_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Pondrá presión para conseguir lo que quiere   ",
+    "respuesta": "He will apply pressure to get want he wants",
+    "incorrecta1": "He would apply   pressure to get want he wants ",
+    "incorrecta2": "He's going to apply   pressure to get want he wants",
+    "incorrecta3": "He will applied    pressure to get want he wants ",
+    "imagen": "https://cdn.pixabay.com/photo/2021/03/10/10/25/office-6084178_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Va a solicitar unirse a la policía   ",
+    "respuesta": "He's going to apply to join the police  ",
+    "incorrecta1": "  He would apply  to join the police",
+    "incorrecta2": "He will apply   to join the police ",
+    "incorrecta3": "He's going to applied  to join the police",
+    "imagen": "https://cdn.pixabay.com/photo/2015/06/01/19/57/bodyworn-794111_960_720.jpg",
+    "objectFit": "contain"
+}]

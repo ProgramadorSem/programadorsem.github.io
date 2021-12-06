@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estamos trayendo la pelota     ",
+    "respuesta": "We are bringing the ball    ",
+    "incorrecta1": " We bring  the ball   ",
+    "incorrecta2": "We would bring  the ball      ",
+    "incorrecta3": "We bringing the ball    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/18/22/10/man-1837119_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Hemos traído comida italiana para el almuerzo  ",
+    "respuesta": "We have brought Italian food for lunch     ",
+    "incorrecta1": "We brought  Italian food for lunch ",
+    "incorrecta2": "We broughted   Italian food for lunch  ",
+    "incorrecta3": "We have broughted    Italian food for lunch  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/07/18/19/12/pasta-3547078_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Trajimos la nueva mesa   ",
+    "respuesta": "We brought the new table   ",
+    "incorrecta1": "We have bring  the new table   ",
+    "incorrecta2": "We broughted   the new table ",
+    "incorrecta3": "We bring    the new table ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/04/20/13/38/furniture-731449_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Traeremos un nuevo móvil para ti  ",
+    "respuesta": "We will bring a new phone for you",
+    "incorrecta1": "We would bring a new phone for you",
+    "incorrecta2": "We're going to bring a new phone for you ",
+    "incorrecta3": "We would bring a new phone for you   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Vamos a traer a un amigo mañana para cenar      ",
+    "respuesta": "We are going to bring a friend tomorrow for dinner     ",
+    "incorrecta1": " We will bring a friend tomorrow for dinner ",
+    "incorrecta2": "We would bring a friend tomorrow for dinner   ",
+    "incorrecta3": "We're going to brought a friend tomorrow for dinner   ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/03/26/10/28/restaurant-691397_960_720.jpg",
+    "objectFit": "contain"
+}]

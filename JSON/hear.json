@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "No están escuchando las noticias   ",
+    "respuesta": "They aren't hearing the news     ",
+    "incorrecta1": "They don't hear the news    ",
+    "incorrecta2": "They are hearing the news  ",
+    "incorrecta3": "They wouldn't hearing  the news ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/10/06/18/57/journalist-2824231_960_720.png",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "No han oído sobre Jennifer   ",
+    "respuesta": "They haven't heard about Jennifer     ",
+    "incorrecta1": "They hadn't hear about Jennifer",
+    "incorrecta2": "They didn't hear about Jennifer   ",
+    "incorrecta3": "They hadn't heard about Jennifer    ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/03/23/21/03/smile-1275668_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " No escucharon nada      ",
+    "respuesta": "They didn't hear anything   ",
+    "incorrecta1": "They didn't heard anything  ",
+    "incorrecta2": "They haven't hear anything",
+    "incorrecta3": "They haven't hear anything  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/01/24/01/45/group-609640_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " No escucharán el ruido de afuera   ",
+    "respuesta": "They won't hear the noise outside",
+    "incorrecta1": "They aren't going to hear  the noise outside ",
+    "incorrecta2": "They wouldn't hear  the noise outside ",
+    "incorrecta3": "They will hear   the noise outside  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/05/18/22/33/construction-machine-3412240_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "No van a escuchar bien si hablas tan bajito    ",
+    "respuesta": "They aren't going to hear well if you speak that low   ",
+    "incorrecta1": " They won't hear  well if you speak that low",
+    "incorrecta2": "They wouldn't hear well if you speak that low  ",
+    "incorrecta3": "They aren't going to hear well if you speak that low ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/03/21/21/19/the-conference-3248255_960_720.jpg",
+    "objectFit": "contain"
+}]

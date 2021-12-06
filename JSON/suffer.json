@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estáis sufriendo un dolor crónico    ",
+    "respuesta": "You are suffering from a chronic pain    ",
+    "incorrecta1": " You suffer from a chronic pain  ",
+    "incorrecta2": "You are suffer from a chronic pain     ",
+    "incorrecta3": "You suffering  from a chronic pain   ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/08/08/06/53/disease-4392163_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Habéis sufrido un grave problema de estómago   ",
+    "respuesta": "You have suffered a severe stomach problem     ",
+    "incorrecta1": "You had suffered a severe stomach problem ",
+    "incorrecta2": "You have suffered a severe stomach problem ",
+    "incorrecta3": "You have suffer a severe stomach problem   ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/08/08/06/54/disease-4392164_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Sufristeis depresión     ",
+    "respuesta": "You suffered of depression    ",
+    "incorrecta1": "You have suffered of depression  ",
+    "incorrecta2": "You had suffered of depression",
+    "incorrecta3": "You have suffer of depression ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/11/02/09/14/alone-513525_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Sufrireis un montón si ella se va ",
+    "respuesta": "You will suffer a lot if she leaves  ",
+    "incorrecta1": "You would suffer a lot if she leaves   ",
+    "incorrecta2": "You are going to suffer a lot if she leaves  ",
+    "incorrecta3": "You will suffered a lot if she leaves   ",
+    "imagen": "https://cdn.pixabay.com/photo/2019/07/16/09/14/girl-4341390_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Vais a sufrir más que ella     ",
+    "respuesta": "You are going to suffer more than her    ",
+    "incorrecta1": "  You will suffer more than her   ",
+    "incorrecta2": "You would suffer more than her ",
+    "incorrecta3": "You're going to suffered more than her  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/01/21/09/58/bullying-3096216_960_720.jpg",
+    "objectFit": "contain"
+}]

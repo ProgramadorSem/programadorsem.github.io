@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "No estás ayudando a tu madre    ",
+    "respuesta": "You aren't helping your mother     ",
+    "incorrecta1": " You don't  your mother   ",
+    "incorrecta2": "You aren't help your mother      ",
+    "incorrecta3": "You don't helping your mother ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/06/15/08/55/lazy-1458443_960_720.png",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "No has ayudado mucho hoy    ",
+    "respuesta": "You haven't help much today    ",
+    "incorrecta1": "You didn't help much today ",
+    "incorrecta2": "You haven't helped much today  ",
+    "incorrecta3": "You didn't helped  much today     ",
+    "imagen": "https://cdn.pixabay.com/photo/2012/04/13/16/46/guy-32820_960_720.png",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " No ayudaste en las tareas de la casa        ",
+    "respuesta": "You didn't help in the house tasks   ",
+    "incorrecta1": "You haven't helped  in the house tasks ",
+    "incorrecta2": "You helpedy in the house tasks",
+    "incorrecta3": "You didn't helped in the house tasks  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/12/28/22/19/washing-dishes-1112077_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " No les ayudaras a ganar  ",
+    "respuesta": "You won't help them to win",
+    "incorrecta1": "You wouldn't help ",
+    "incorrecta2": "You aren't going to help ",
+    "incorrecta3": "You won't helped   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/05/24/07/01/champions-1411861_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "No vas a ayudar a tu hermana con sus deberes   ",
+    "respuesta": "You aren't going to help your sister with her homework   ",
+    "incorrecta1": "  You won't help your sister with her homework ",
+    "incorrecta2": "You wouldn't help your sister with her homework  ",
+    "incorrecta3": "You aren't going to helped  your sister with her homework",
+    "imagen": "https://cdn.pixabay.com/photo/2020/07/07/13/48/woman-5380641_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Estamos llevando tu bolsa   ",
+    "respuesta": "They are calling their manager     ",
+    "incorrecta1": " We're carrying your bag    ",
+    "incorrecta2": "We have carried      ",
+    "incorrecta3": "We have carry ",
+    "imagen": "",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Hemos llevado a tu niño arriba a su dormitorio  ",
+    "respuesta": "We have carried your child upstairs to his room   ",
+    "incorrecta1": "We carried ",
+    "incorrecta2": "We had carried  ",
+    "incorrecta3": "You didn't helped  much today     ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/01/20/11/11/baby-1151351_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Llevamos estos libros pesado   ",
+    "respuesta": "We carried this heavy books     ",
+    "incorrecta1": "We had carried   ",
+    "incorrecta2": "We have carried",
+    "incorrecta3": "We carry  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/01/18/20/43/literature-3091212_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": " Llevaremos está bolsa pequeña al avión  ",
+    "respuesta": "We will carry this little bag onto the plane",
+    "incorrecta1": "We would carry  ",
+    "incorrecta2": "We're going to carry ",
+    "incorrecta3": "We will carried ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/11/23/18/12/bag-1854148_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Vamos a llevar tu oro    ",
+    "respuesta": "We are going to carry your gold",
+    "incorrecta1": "We would carry  ",
+    "incorrecta2": "Wewouldn't going to carry ",
+    "incorrecta3": "We will carried ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/11/01/22/33/gold-513062_960_720.jpg",
+    "objectFit": "contain"
+}]

@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "¿Estás pensando en ella otra vez?  ",
+    "respuesta": "Are you thinking about her again?  ",
+    "incorrecta1": " Do you think about her again? ",
+    "incorrecta2": "Are you think about her again?   ",
+    "incorrecta3": "Would you think about her again? ",
+    "imagen": "https://cdn.pixabay.com/photo/2014/06/18/13/24/seaside-371229_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "¿Has pensado en mí últimamente  ",
+    "respuesta": "Have you thought about me lately?     ",
+    "incorrecta1": "Did you think  about me lately? ",
+    "incorrecta2": "Have you think  about me lately?  ",
+    "incorrecta3": "Had you think  about me lately?  ",
+    "imagen": "https://cdn.pixabay.com/photo/2018/05/09/15/28/question-3385451_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " ¿Pensaste en lo que te dije?     ",
+    "respuesta": "Did you think about what I told you?    ",
+    "incorrecta1": "Do you thought  about what I told you?? ",
+    "incorrecta2": "Did you thin  about what I told you?? ",
+    "incorrecta3": "Have you though  about what I told you?? ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/01/19/14/42/woman-1148923_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Pensarás diferente cuando crezcas ",
+    "respuesta": "You will think different when you grow up    ",
+    "incorrecta1": "You would think different when you grow up  ",
+    "incorrecta2": "You are going to think different when you grow up  ",
+    "incorrecta3": "You will thought different when you grow up     ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/01/23/19/40/woman-2003647_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Te lo vas a pensar dos veces     ",
+    "respuesta": "You are going to think it twice    ",
+    "incorrecta1": "  You will think it twice   ",
+    "incorrecta2": "You would think  it twice     ",
+    "incorrecta3": "You're going to though it twice   ",
+    "imagen": "https://cdn.pixabay.com/photo/2020/04/07/04/17/desperate-5011953_960_720.jpg",
+    "objectFit": "contain"
+}]

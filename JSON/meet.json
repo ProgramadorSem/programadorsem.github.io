@@ -1,0 +1,47 @@
+[{
+    "categoria": " Verbo 4 ",
+    "pregunta": "Me estoy reuniendo con ella en la estación    ",
+    "respuesta": "I am meeting her at the station    ",
+    "incorrecta1": " I met  her at the station   ",
+    "incorrecta2": "I would meet her at the station  ",
+    "incorrecta3": "I will meet her at the station  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/06/05/11/01/airport-2373727_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "La he conocido en Hawaï  ",
+    "respuesta": "I have met her in Hawaii  ",
+    "incorrecta1": "I had met her in Hawaii",
+    "incorrecta2": "I met her in Hawaii",
+    "incorrecta3": " I have meet her in Hawaii",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/31/10/39/hawaii-2700190_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": " Lo conocí cuándo estaba en la universidad     ",
+    "respuesta": "I met him when I was in college  ",
+    "incorrecta1": "I have met  when I was in college ",
+    "incorrecta2": "I had met  when I was in college ",
+    "incorrecta3": "I have meet  when I was in college ",
+    "imagen": "https://cdn.pixabay.com/photo/2013/04/19/01/15/university-105709_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "La conoceré el año que viene ",
+    "respuesta": "I will meet her next year",
+    "incorrecta1": "I would meet her next year",
+    "incorrecta2": "I'm going to meet her next year",
+    "incorrecta3": "I will met her next year ",
+    "imagen": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1521838982/photosp/33c186c1-e279-4f42-a791-6b140408d66c/33c186c1-e279-4f42-a791-6b140408d66c.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": " Take",
+    "pregunta": "Me voy a reunir con ellos después de trabajar   ",
+    "respuesta": "I'm going to meet them after work    ",
+    "incorrecta1": "I will meet  them after work",
+    "incorrecta2": "I would meet  them after work ",
+    "incorrecta3": "I'm going to met  them after work",
+    "imagen": "https://cdn.pixabay.com/photo/2016/10/16/21/13/drinks-1746272_960_720.jpg",
+    "objectFit": "contain"
+}]

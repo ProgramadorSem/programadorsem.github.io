@@ -1,0 +1,47 @@
+[{
+    "categoria": "Aply",
+    "pregunta": "Creemos en ti      ",
+    "respuesta": "We believe in you      ",
+    "incorrecta1": " We are believing in you  ",
+    "incorrecta2": "We believed in you  ",
+    "incorrecta3": "We would believed in you  ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/01/31/17/16/arm-2025687_960_720.png",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Aply",
+    "pregunta": "Hemos creído en Dios desde que éramos niños   ",
+    "respuesta": "We have believed in God since we were little kids   ",
+    "incorrecta1": "We have believe  in God since we were little kids   ",
+    "incorrecta2": "We had believed in God since we were little kids ",
+    "incorrecta3": "We believed in God since we were little kids      ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/09/18/11/37/child-945422_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Creímos la historia de Janet    ",
+    "respuesta": "We believed Janet's story    ",
+    "incorrecta1": "We have believed  Janet's story ",
+    "incorrecta2": "We had believed  Janet's story",
+    "incorrecta3": "We believe  Janet's story ",
+    "imagen": "https://res.cloudinary.com/twenty20/private_images/t_standard-fit/v1521838974/photosp/f100f171-4401-41ee-9d3e-23d2b0b34bcc/f100f171-4401-41ee-9d3e-23d2b0b34bcc.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Lo creeremos    ",
+    "respuesta": "We will believe it ",
+    "incorrecta1": "We would believe it ",
+    "incorrecta2": "We are going to believe it ",
+    "incorrecta3": "We will believed it ",
+    "imagen": "https://cdn.pixabay.com/photo/2017/08/16/22/27/thumbs-up-2649310_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "Aply",
+    "pregunta": "Vamos a creer en ellos   ",
+    "respuesta": "We are going to believe in them",
+    "incorrecta1": "We will believe in them ",
+    "incorrecta2": "We are going to believed in them   ",
+    "incorrecta3": "We would believe in them",
+    "imagen": "https://cdn.pixabay.com/photo/2016/07/20/00/30/baseball-team-1529412_960_720.jpg",
+    "objectFit": "contain"
+}]

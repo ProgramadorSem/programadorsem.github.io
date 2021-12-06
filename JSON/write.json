@@ -1,0 +1,48 @@
+[{
+    "categoria": " Write ",
+    "pregunta": "Estoy escribiendo un libro sobre mi misma  ",
+    "respuesta": "I'm writing a book about myself   ",
+    "incorrecta1": "I writing  book about myself  ",
+    "incorrecta2": "I write   book about myself     ",
+    "incorrecta3": "I would write  book about myself   ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/07/02/10/40/writing-828911_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": " Write",
+    "pregunta": " He escrito un artículo sobre el Renacimiento      ",
+    "respuesta": "I have written an article about the Renaissance   ",
+    "incorrecta1": "I had written an article about the Renaissance   ",
+    "incorrecta2": "I have write an article about the Renaissance ",
+    "incorrecta3": "I had write an article about the Renaissance   ",
+    "imagen": "https://cdn.pixabay.com/photo/2016/01/19/17/53/writing-1149962_960_720.jpg ",
+    "objectFit": "contain"
+}, {
+    "categoria": " Write",
+    "pregunta": "Escribí un email a Daniel anoche    ",
+    "respuesta": "I wrote an email to Daniel last night   ",
+    "incorrecta1": "I written an email to Daniel last night ",
+    "incorrecta2": "I have written an email to Daniel last night",
+    "incorrecta3": "I have wrote an email to Daniel last night",
+    "imagen": "https://cdn.pixabay.com/photo/2016/02/07/21/03/computer-1185626_960_720.jpg",
+    "objectFit": "contain"
+}, {
+    "categoria": "  Take",
+    "pregunta": "Le escribiré una carta a mi padre",
+    "respuesta": "I will write a letter to my father",
+    "incorrecta1": "I'm going to write a letter to my father",
+    "incorrecta2": "I would write a letter to my father",
+    "incorrecta3": "I'm going to wrote  a letter to my father  ",
+    "imagen": "https://cdn.pixabay.com/photo/2015/12/04/14/49/hand-1076597_960_720.jpg",
+    "objectFit": "contain"
+
+}, {
+    "categoria": "  Take",
+    "pregunta": "Voy a escribir un cuento",
+    "respuesta": "I'm going to write a tale",
+    "incorrecta1": "I would write a tale",
+    "incorrecta2": "I'm going to wrote a tale",
+    "incorrecta3": "I will wrote  a tale",
+    "imagen": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849817_960_720.jpg",
+    "objectFit": "contain"
+}]
